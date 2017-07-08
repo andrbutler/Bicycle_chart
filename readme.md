@@ -1,0 +1,1 @@
+d3 scatterplot of doping allegations and fastest times for Alpe d'Huez race.

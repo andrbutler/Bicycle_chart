@@ -1,0 +1,32 @@
+body{
+	background-image: url(http://maxpixel.freegreatpicture.com/static/photo/1x/After-L-alpe-D-Huez-Climb-Tour-De-France-244348.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+h1 {
+	text-align: center; 
+}
+
+.chart {
+	opacity: .85;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px; 
+}
+
+.info{
+	position: fixed;
+	top: 175px;
+	left:45px;
+	width: 250px;
+	height:150px;
+	border: 3px #000000 solid;
+	opacity:.75;
+	background: #FFFFE0;
+}
+  
+.hidden{
+	display: none;
+}
